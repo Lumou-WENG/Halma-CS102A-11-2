@@ -17,6 +17,6 @@ public class Halma {
             GameFrame mainFrame = new GameFrame();
             mainFrame.add(chessBoardComponent);
             mainFrame.setVisible(true);
-        });
+        });//hey, I am WLM, I am trying to write project on github
     }
 }
